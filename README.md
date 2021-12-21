@@ -15,5 +15,5 @@ This component for lang. and What did I do? These are is just public projects.<b
 LinkedIn account. ( import from Linkedin rosette )<br>
 ![image](https://user-images.githubusercontent.com/57998586/125292503-3196d700-e32b-11eb-935c-e98869cd49e9.png)<br>
 
-Other etc. for more -> www.mehmetaliyilgin.com<br>
+Other etc. for more -> http://mehmetaliyilgin.rf.gd/?i=1<br>
 ![image](https://user-images.githubusercontent.com/57998586/125292531-38bde500-e32b-11eb-98ab-da99ac6d4b40.png)
